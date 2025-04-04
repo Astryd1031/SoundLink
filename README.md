@@ -77,6 +77,9 @@ We welcome contributions! If you'd like to contribute to **SoundLink**, please f
 3. Write your code and ensure all tests pass.
 4. Submit a pull request with a description of your changes.
 
+## Slides
+![Project Logo](presentation.pdf)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
